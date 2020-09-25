@@ -1,0 +1,27 @@
+body {
+   font-family: 'Montserrat', sans-serif;
+   background: #eae6ea;
+}
+
+.full-width {
+  width: 1200px;
+  height: auto;
+  margin: auto;
+  overflow: auto;
+}
+
+header h1 {
+  border-top: 4px solid darkseagreen;
+  border-bottom: 4px solid darkseagreen;
+  padding: 10px 0 10px 0;
+  font-family: 'Yeseva One', cursive;
+  color: salmon;
+  font-size: 70px;
+  letter-spacing: 2px;
+  line-height: 80px;
+  text-align: center;
+}
+
+iframe {
+  margin-left: 170px;
+}

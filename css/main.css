@@ -1,0 +1,124 @@
+body {
+   font-family: 'Montserrat', sans-serif;
+   background: #eae6ea;
+}
+
+.full-width {
+  width: 1200px;
+  height: auto;
+  margin: auto;
+  overflow: auto;
+}
+
+.half-width {
+  width: 600px;
+  height: auto;
+  box-sizing: border-box;
+}
+
+header {
+  background-image: url('../img/colors2.jpg');
+  background-position: center;
+  background-size: cover;
+  height: 900px;
+  border-bottom: 7px solid darkgrey;
+}
+
+header h1, h2 {
+  padding: 30px 0 0px 20px;
+  font-family: 'Yeseva One', cursive;
+  color: salmon;
+}
+
+header h1 {
+  font-size: 70px;
+  letter-spacing: 2px;
+  line-height: 80px;
+}
+
+header h2 {
+  padding-top: 50px;
+  font-size:  35px;
+  font-weight: lighter;
+  line-height: 50px;
+  letter-spacing: 1px;
+}
+
+header h4 {
+  color: darkgrey;
+  padding: 20px 0 0 25px;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+  display: inline-block;
+}
+
+nav {
+  float: right;
+  padding-top: 30px;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  color: darkgrey;
+  font-size: 21px;
+  font-weight: bold;
+  text-decoration: none;
+  padding-right: 15px;
+}
+
+  h3 {
+  font-weight: bold;
+  color: darkseagreen;
+  text-align:center;
+  font-size: 35px;
+  border-top: 5px solid darkgrey;
+  border-bottom: 5px solid darkgrey;
+  padding-top: 25px;
+  padding-bottom: 30px;
+}
+
+.one, .two, .three, .four {
+  width: 500px;
+  border: 2px solid salmon;
+  margin-bottom: 30px;
+  margin-left: 100px;
+}
+
+
+.work p {
+  display: inline;
+  color: darkgrey;
+  font-size: 25px;
+  font-style: italic;
+  float:right;
+  padding-right: 200px;
+}
+
+.picture {
+  width: 300px;
+  margin-left: 200px;
+  float: left;
+}
+
+.about p {
+font-size: 20px;
+color: dimgrey;
+float: right;
+text-align: center;
+width: 400px;
+line-height: 35px;
+padding-right: 150px;
+}
+
+.icon {
+ text-align: center;
+ padding-bottom: 30px;
+}
+
+.github, .instagram {
+  padding: 20px;
+}
